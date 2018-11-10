@@ -4,7 +4,7 @@
 int main() {
     cpu_t* cpu = cpu_new();
     const char* routines[] = {
-        "MOV 5 R00",
+        "MOV 15 R00",
         "MOV 10 R01",
         "JZ 6",
         "ADD R02 R01",
