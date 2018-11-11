@@ -4,6 +4,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdio.h>
 
 #define REGISTERS_SIZE 99 // R00 to R99
 #define MAX_ARGUMENT_LENGTH 10
